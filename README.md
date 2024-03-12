@@ -1,5 +1,5 @@
 # TVA
-　<font color='red'> 声明：仅研究学习自动化，不可商用！ </font>  
+<font color='#A52A2A'>声明：仅研究学习自动化，不可商用！</font>  
 更新时间：20240312  
 系统：Windows11  
 工具：Visual Studio Code、python  
