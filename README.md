@@ -3,10 +3,13 @@
 更新时间：20240312
 
 配置环境：
+
+```
 pip install requests
 pip insatll bs4
 pip install lxml
 
+```
 运行：
 python.exe ./main.py
 
